@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0263/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說阿闍世王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0626.xml
+    old_id: T15n0626
+hash: sha256:6b061f18717016be25eb44536525b32a4cfcb170ff9f86ab539f6e9ca915e6ca
